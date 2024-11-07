@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Jogadores',
+    'Qual o maior goleiro que o Corinthians teve?',
+    'Cassio Ramos, conquistando uma Libertadores de forma invicta e ganhando o Mundial de Clubes no Ano de 2012.'
 )
 
 criaCartao(
