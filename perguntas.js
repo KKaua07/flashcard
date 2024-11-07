@@ -1,23 +1,24 @@
 criaCartao(
     'Jogadores',
     'Qual o maior goleiro que o Corinthians teve?',
-    'Cassio Ramos, conquistando uma Libertadores de forma invicta e ganhando o Mundial de Clubes no Ano de 2012.'
+    'Cassio Ramos, conquistando uma Libertadores  de forma invicta
+     e ganhando o Mundial de Clubes.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Jogadores',
+    'Qual o principal atacante do Timão esse ano?',
+    'Yuri Alberto com atualmente 25 gols no ano'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Quais os anos das conquistas dos 2 mundiais?',
+    '2000 e 2012'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'Quem é o detentor de mais gols na história do clube?',
+    'Cláudio Christóvam – 306 gols'
 )
