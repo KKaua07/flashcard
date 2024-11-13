@@ -1,8 +1,7 @@
 criaCartao(
     'Jogadores',
     'Qual o maior goleiro que o Corinthians teve?',
-    'Cassio Ramos, conquistando uma Libertadores  de forma invicta
-     e ganhando o Mundial de Clubes.'
+    'Cassio Ramos, conquistando uma Libertadores  de forma invicta e ganhando o Mundial de Clubes.'
 )
 
 criaCartao(
