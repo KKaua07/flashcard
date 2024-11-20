@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Jogadores',
     'Qual o principal atacante do Timão esse ano?',
-    'Yuri Alberto com atualmente 26 gols no ano' (13/11)
+    'Yuri Alberto com atualmente 26 gols no ano (13/11)'
 )
 
 criaCartao(
